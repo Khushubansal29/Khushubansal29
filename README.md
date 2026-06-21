@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there, I'm Khushboo 
 
-<!--
-**Khushubansal29/Khushubansal29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical Engineering Undergraduate at IIT Roorkee
 
-Here are some ideas to get you started:
+Interested in Machine Learning, Full-Stack Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building projects that combine technology with real-world impact
+
+---
+
+## Tech Stack
+
+**Languages**
+
+* Python
+* JavaScript
+* HTML
+* CSS
+
+**Frameworks & Tools**
+
+* Node.js
+* MongoDB
+* Streamlit
+* Git
+* GitHub
+
+**Machine Learning**
+
+* Pandas
+* NumPy
+* Scikit-Learn
+
+---
+
+## Featured Projects
+
+### Deepfake Audio Detection
+
+Machine Learning system that detects AI-generated audio using audio feature extraction and classification techniques.
+
+### Netflix Recommendation System
+
+Recommendation engine built using collaborative filtering and cosine similarity.
+
+### MindBridge
+
+Mental well-being platform featuring mood tracking, journaling, support circles, and user authentication.
+
+### Feature Flag Engine
+
+Feature management system for controlled rollouts, experimentation, and deployment strategies.
+
+---
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* Machine Learning
+* Full-Stack Development
+  
+---
+
+## Connect With Me
+
+* LinkedIn
+* LeetCode
