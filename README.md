@@ -59,6 +59,7 @@ Feature management system for controlled rollouts, experimentation, and deployme
 
 * Data Structures & Algorithms
 * Machine Learning
+* System Design Fundamentals
 * Full-Stack Development
   
 ---
