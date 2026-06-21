@@ -1,5 +1,5 @@
 # Hi there, I'm Khushboo 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/khushboo-bansal-383a1131b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/khushboo-bansal-383a1131b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/khushboo_bansal/)
 
 Chemical Engineering Undergraduate at IIT Roorkee
